@@ -80,8 +80,4 @@ Possible future upgrades:
 
 ---
 
-## 👩‍💻 Author
-
-Deepika Gautam
-
 Python Learning Journey 🚀
