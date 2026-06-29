@@ -50,8 +50,5 @@ After completing this module, I can:
 - Apply exception handling in projects
 
 ---
-
-## 👩‍💻 Author
-
-Deepika Gautam  
+  
 Python Learning Journey 🚀
