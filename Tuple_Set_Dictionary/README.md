@@ -58,7 +58,7 @@ After completing this module, I understand:
 
 ## 💻 Files in This Folder
 
-📄 Day-11_Tuple_Set_Dictionary.ipynb
+📄 Tuple_Set_Dictionary.ipynb
 
 Contains:
 - Detailed explanations
