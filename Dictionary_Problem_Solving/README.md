@@ -44,7 +44,7 @@ student = {
 
 
 ## 💻 Files in This Folder
-Day-12_Dictionary_Problem_Solving.ipynb  
+Dictionary_Problem_Solving.ipynb  
 Contains:
 - Notes and explanations
 - Code examples
