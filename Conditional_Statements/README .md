@@ -1,7 +1,5 @@
 # 🔀 Conditional Statements in Python 🐍
 
-Welcome to **Day 04** of my **Python Learning Journey**.
-
 In this module, I learned how to make decisions in Python using **Conditional Statements**. These statements allow a program to execute different blocks of code based on whether a condition is `True` or `False`, making programs smarter, interactive, and more dynamic.
 
 ---
