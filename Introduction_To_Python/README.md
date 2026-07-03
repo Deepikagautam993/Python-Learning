@@ -1,6 +1,6 @@
 # 🚀 Introduction to Python 🐍
 
-Welcome my **Python Learning Journey**.
+Welcome to my **Python Learning Journey**.
 
 This module marks the beginning of my Python programming journey. I explored the fundamentals of Python, learned why it is one of the world's most popular programming languages, installed Python, and wrote my very first Python programs.
 
